@@ -164,7 +164,7 @@ VIDA generates:
 
 ## 🤖 AI Assistance
 
-This project was developed with the help of OpenAI's ChatGPT during the development process.
+This project was developed with the help of OpenAI's ChatGPT and Codex during the development process.
 
 AI assistance was used for:
 - Brainstorming the project architecture.
@@ -173,7 +173,6 @@ AI assistance was used for:
 - Debugging frontend and backend integration.
 - Improving the Knowledge Graph implementation.
 - Refining the UI and user experience.
-- Writing documentation and the project README.
 
 All project design decisions, implementation, testing, and integration were completed by the developer.
 
